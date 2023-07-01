@@ -1,6 +1,5 @@
 {
   "name": "face-recognition-api",
-  "homepage": "https://lucas-ta.github.io/smart-brain-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
